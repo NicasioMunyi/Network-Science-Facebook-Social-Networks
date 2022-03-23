@@ -81,7 +81,7 @@ GG.nodes()
 ```
 ### Visualizing Graph GG
 ```py
-# Now, we need to visualize the Graph 'GG'
+# Now, we ccneed to visualize the Graph 'GG'
 # Here, matplotlib.pyplot Python library was used to make this possible
 
 from matplotlib.pyplot import figure
